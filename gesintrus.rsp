@@ -1,0 +1,22 @@
+/utf8output
+/out:bin\gesintrus.dll
+ /res:bin\gesintrus.dll.licenses
+ /res:C:\Inetpub\wwwroot\gesintrus\CadUsuarios.TWebForm1.resources
+ /res:C:\Inetpub\wwwroot\gesintrus\Login.TWebForm1.resources
+ /res:C:\Inetpub\wwwroot\gesintrus\BuscaUsuario.TWebForm1.resources
+ /res:C:\Inetpub\wwwroot\gesintrus\AlteraUsuario.TWebForm1.resources
+ /res:C:\Inetpub\wwwroot\gesintrus\CadSindicato.TWebForm1.resources
+ /res:C:\Inetpub\wwwroot\gesintrus\AlteraSocio.TWebForm1.resources
+ /res:C:\Inetpub\wwwroot\gesintrus\LocalizaSocios.TWebForm1.resources
+ /res:C:\Inetpub\wwwroot\gesintrus\Global.TGlobal.resources
+ /res:C:\Inetpub\wwwroot\gesintrus\Seleciona.TWebForm1.resources
+ /res:C:\Inetpub\wwwroot\gesintrus\Impressoes.TWebForm1.resources
+ /res:C:\Inetpub\wwwroot\gesintrus\WUC_TimbleRelat.TWebUserControl1.resources
+ /res:C:\Inetpub\wwwroot\gesintrus\RelDeclEnergia.TWebForm1.resources
+ /res:C:\Inetpub\wwwroot\gesintrus\Default.TWebForm1.resources
+ /res:C:\Inetpub\wwwroot\gesintrus\AniverMes.TWebForm1.resources
+ /res:C:\Inetpub\wwwroot\gesintrus\AniverDia.TWebForm1.resources
+ /res:C:\Inetpub\wwwroot\gesintrus\RelAniverMes.TWebForm1.resources
+ /res:C:\Inetpub\wwwroot\gesintrus\RelAniverDia.TWebForm1.resources
+ /res:C:\Inetpub\wwwroot\gesintrus\FotoSocio.TWebForm1.resources
+ /res:C:\Inetpub\wwwroot\gesintrus\WUC_Menu.TWebUserControl1.resources

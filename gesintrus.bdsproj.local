@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2007/05/29 07:28:37.421.dll,c:\arquivos delphi\projetos\componentes_ferramentas\componentes\magicajax\bin\MagicAjax.dll=</Transaction>
+    <Transaction>2007/05/29 13:45:37.421.aspx,C:\Arquivos DELPHI\Projetos\Delphi DOT NET\gesintrus\WebForm1.aspx=C:\Arquivos DELPHI\Projetos\Delphi DOT NET\gesintrus\Recibo.aspx</Transaction>
+    <Transaction>2007/05/29 13:45:37.421.pas,C:\Arquivos DELPHI\Projetos\Delphi DOT NET\gesintrus\WebForm1.pas=C:\Arquivos DELPHI\Projetos\Delphi DOT NET\gesintrus\Recibo.pas</Transaction>
+    <Transaction>2007/05/29 13:45:37.671.aspx,C:\Arquivos DELPHI\Projetos\Delphi DOT NET\gesintrus\WebForm1.aspx=C:\Arquivos DELPHI\Projetos\Delphi DOT NET\gesintrus\Recibo.aspx</Transaction>
+    <Transaction>2007/05/29 13:45:37.671.pas,C:\Arquivos DELPHI\Projetos\Delphi DOT NET\gesintrus\WebForm1.pas=C:\Arquivos DELPHI\Projetos\Delphi DOT NET\gesintrus\Recibo.pas</Transaction>
+    <Transaction>2007/05/29 14:01:31.078.aspx,C:\Arquivos DELPHI\Projetos\Delphi DOT NET\gesintrus\WebForm1.aspx=C:\Arquivos DELPHI\Projetos\Delphi DOT NET\gesintrus\ReciboDados.aspx</Transaction>
+    <Transaction>2007/05/29 14:01:31.078.pas,C:\Arquivos DELPHI\Projetos\Delphi DOT NET\gesintrus\WebForm1.pas=C:\Arquivos DELPHI\Projetos\Delphi DOT NET\gesintrus\ReciboDados.pas</Transaction>
+    <Transaction>2007/05/29 14:01:31.265.aspx,C:\Arquivos DELPHI\Projetos\Delphi DOT NET\gesintrus\WebForm1.aspx=C:\Arquivos DELPHI\Projetos\Delphi DOT NET\gesintrus\ReciboDados.aspx</Transaction>
+    <Transaction>2007/05/29 14:01:31.265.pas,C:\Arquivos DELPHI\Projetos\Delphi DOT NET\gesintrus\WebForm1.pas=C:\Arquivos DELPHI\Projetos\Delphi DOT NET\gesintrus\ReciboDados.pas</Transaction>
+    <Transaction>2007/05/30 10:22:21.234.aspx,C:\Arquivos DELPHI\Projetos\Delphi DOT NET\gesintrus\WebForm1.aspx=C:\Arquivos DELPHI\Projetos\Delphi DOT NET\gesintrus\Backup.aspx</Transaction>
+    <Transaction>2007/05/30 10:22:21.250.pas,C:\Arquivos DELPHI\Projetos\Delphi DOT NET\gesintrus\WebForm1.pas=C:\Arquivos DELPHI\Projetos\Delphi DOT NET\gesintrus\Backup.pas</Transaction>
+    <Transaction>2007/05/30 10:22:21.421.aspx,C:\Arquivos DELPHI\Projetos\Delphi DOT NET\gesintrus\WebForm1.aspx=C:\Arquivos DELPHI\Projetos\Delphi DOT NET\gesintrus\Backup.aspx</Transaction>
+    <Transaction>2007/05/30 10:22:21.421.pas,C:\Arquivos DELPHI\Projetos\Delphi DOT NET\gesintrus\WebForm1.pas=C:\Arquivos DELPHI\Projetos\Delphi DOT NET\gesintrus\Backup.pas</Transaction>
+    <Transaction>2007/06/01 13:08:22.203.dll,c:\arquivos de programas\arquivos comuns\borland shared\bds\shared assemblies\4.0\Borland.Data.Web.dll=</Transaction>
+    <Transaction>2007/06/01 13:08:34.562.dll,c:\windows\microsoft.net\framework\v1.1.4322\Microsoft.VisualBasic.dll=</Transaction>
+    <Transaction>2007/06/01 13:08:44.281.Dll,c:\windows\microsoft.net\framework\v1.1.4322\Microsoft.VisualC.Dll=</Transaction>
+    <Transaction>2007/06/01 13:08:58.234.dll,c:\windows\microsoft.net\framework\v1.1.4322\System.Design.dll=</Transaction>
+    <Transaction>2007/06/01 13:09:09.234.dll,c:\windows\microsoft.net\framework\v1.1.4322\System.DirectoryServices.dll=</Transaction>
+    <Transaction>2007/06/01 13:09:22.828.dll,c:\windows\microsoft.net\framework\v1.1.4322\System.Management.dll=</Transaction>
+    <Transaction>2007/06/01 13:09:33.296.dll,c:\windows\microsoft.net\framework\v1.1.4322\System.Runtime.Serialization.Formatters.Soap.dll=</Transaction>
+    <Transaction>2007/06/01 13:09:42.046.dll,c:\windows\microsoft.net\framework\v1.1.4322\System.Windows.Forms.dll=</Transaction>
+    <Transaction>2007/06/01 13:09:58.843.dll,c:\windows\microsoft.net\framework\v1.1.4322\mscorlib.dll=</Transaction>
+    <Transaction>2007/06/08 08:13:16.531.dll,C:\Inforamos\componentes_ferramentas\componentes\controlemessagebox\bin\ControleMessageBox.dll=C:\Arquivos DELPHI\Projetos\Componentes_Ferramentas\Componentes\ControleMessageBox\bin\ControleMessageBox.dll</Transaction>
+    <Transaction>2007/06/08 08:13:37.375.dll,C:\Inforamos\componentes_ferramentas\componentes\magicajax\bin\MagicAjax.dll=C:\Arquivos DELPHI\Projetos\Componentes_Ferramentas\Componentes\magicajax\bin\MagicAjax.dll</Transaction>
+    <Transaction>2007/06/08 08:13:55.484.dll,C:\Inforamos\componentes_ferramentas\componentes\skmmenu2.2.binary\skmMenu.dll=C:\Arquivos DELPHI\Projetos\Componentes_Ferramentas\Componentes\skmMenu2.2.Binary\skmMenu.dll</Transaction>
+  </Transactions>
+</BorlandProject>

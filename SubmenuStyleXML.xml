@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<menu>
+	<menuItem>
+		<text>Sistema</text>
+		<subMenu>
+			<menuItem>
+				<text>Menu Principal</text>
+				<url>Default.aspx</url>
+			</menuItem>
+			<menuItem>
+				<text>Logout</text>
+				<url>LogOut.aspx</url>
+			</menuItem>
+			<menuItem>
+				<text>Fechar</text>
+				<url>javascript:window.close()</url>
+			</menuItem>
+		</subMenu>
+	</menuItem>
+
+	<menuItem>
+		<text>Cadastros</text>
+		<subMenu>
+			<menuItem>
+				<text>Usuarios</text>
+				<url>CadUsuarios.aspx</url>
+			</menuItem>
+			<menuItem>
+				<text>Sindicato</text>
+				<url>CadSindicato.aspx</url>
+			</menuItem>
+			<menuItem>
+				<text>Socios</text>
+				<url>AlteraSocio.aspx</url>
+			</menuItem>
+		</subMenu>
+	</menuItem>
+
+	<menuItem>
+		<text>Pesquisas</text>
+		<subMenu>
+			<menuItem>
+				<text>Localizar...</text>
+				<subMenu>
+					<menuItem>
+						<text>Socios</text>
+						<url>LocalizaSocios.aspx</url>
+					</menuItem>
+				</subMenu>
+			</menuItem>
+			<menuItem>
+			        <text>Listagem</text>
+			        <url>LocalizaSocios.aspx</url>
+			</menuItem>
+			<menuItem>
+			        <text>Aniversariantes</text>
+				<subMenu>
+					<menuItem>
+						<text>Exibir por Mes</text>
+						<url>AniverMes.aspx</url>
+					</menuItem>
+					<menuItem>
+						<text>Exibir do Dia</text>
+						<url>AniverDia.aspx</url>
+					</menuItem>
+				</subMenu>
+			</menuItem>
+		</subMenu>		
+	</menuItem>
+
+        <menuItem>
+		<text>Ferramentas</text>
+		<subMenu>
+			<menuItem>
+			        <text>Backup</text>
+			        <url>Backup.aspx</url>
+			</menuItem>
+		</subMenu>		
+	</menuItem>
+
+        <menuItem>
+		<text>Suporte</text>
+		<subMenu>
+			<menuItem>
+			        <text>Help-desk</text>
+			        <url>mailto:suporte@inforamos.com</url>
+			</menuItem>
+		</subMenu>		
+	</menuItem>
+</menu>
